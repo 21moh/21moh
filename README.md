@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Matthew Oh</h1>
 <h3 align="center">An aspiring Software Engineer from Lexington, MA</h3>
-![Chess AI](chessGif.gif)
+![](chessGif.gif)
 
 - 📫 How to reach me **matthewoh22@gmail.com**
 
