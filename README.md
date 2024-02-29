@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring Software Engineer from Lexington, MA</h3>
 
 
-<p align="right">
+<p align="center">
   <img src="chessGif2.gif" alt="animated" />
 </p>
 
