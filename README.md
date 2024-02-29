@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw187p7duf5di_VsJo-Gxhz3&ust=1709287709435000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjjnI2n0IQDFQAAAAAdAAAAABAI)
+
 <h1 align="center">Hi 👋, I'm Matthew Oh</h1>
 <h3 align="center">An aspiring Software Engineer from Lexington, MA</h3>
-
+<img align="right" alt="Coding" width="400" src = https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 - 📫 How to reach me **matthewoh22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
