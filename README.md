@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Matthew Oh</h1>
 <h3 align="center">An aspiring Software Engineer from Lexington, MA</h3>
-
+<div style="text-align: center;">
 ![chessGif](https://github.com/21moh/21moh/assets/68302300/4d7d3411-c754-430e-a2c3-eed69561dd1c)
+</div>
 
 - 📫 How to reach me **matthewoh22@gmail.com**
 
