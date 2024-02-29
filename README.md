@@ -1,3 +1,4 @@
+![snowboarding](https://github.com/21moh/21moh/assets/68302300/d541880f-1e5a-49d3-838d-46111014c248)
 
 <h1 align="center">Hi 👋, I'm Matthew Oh</h1>
 <h3 align="center">An aspiring Software Engineer from Lexington, MA</h3>
