@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="chessGif.gif" alt="animated" />
+  <img src="chessGif2.gif" alt="animated" />
 </p>
 
 
