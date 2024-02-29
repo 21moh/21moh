@@ -3,6 +3,9 @@
 <h3 align="center">An aspiring Software Engineer from Lexington, MA</h3>
 
 
+![chessGif](https://github.com/21moh/21moh/assets/68302300/a32a8fc8-7fac-46c9-9c6d-a7260b2ea881)
+
+
 - 📫 How to reach me **matthewoh22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
