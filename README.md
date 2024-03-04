@@ -10,10 +10,6 @@
   <img src="chessGif2.gif" alt="animated" />
 </p>
 
-<p align="center">
-  <img src="unityGif2.gif" alt="animated" />
-</p>
-
 
 
 
