@@ -10,7 +10,7 @@
   <img src="chessGif2.gif" alt="animated" />
 </p>
 
-![unityGif2](https://github.com/21moh/21moh/assets/68302300/dc366c3d-1bde-4f05-8a1c-704b7c6a7989)
+
 
 
 
